@@ -2,7 +2,7 @@ colorama==0.4.3
 commonmark==0.9.1
 et-xmlfile==1.0.1
 jdcal==1.4.1
-numpy==1.19.1
+numpy==1.22.0
 openpyxl==3.0.4
 pandas==1.1.0
 pprintpp==0.4.0
